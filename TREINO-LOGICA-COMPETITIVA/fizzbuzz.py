@@ -1,0 +1,12 @@
+#Problema: Imprimir números de 1 a N, substituindo múltiplos de 3 por "Fizz", de 5 por "Buzz" e de ambos por "FizzBuzz".
+
+n = int(input("Digite N: "))
+for i in range(1, n + 1):
+    if i % 15 == 0:
+        print("FizzBuzz", end=" ")
+    elif i % 3 == 0:
+        print("Fizz", end=" ")
+    elif i % 5 == 0:
+        print("Buzz", end=" ")
+    else:
+        print(i, end=" ")
