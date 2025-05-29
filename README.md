@@ -15,4 +15,9 @@ Manter a prática constante de programação em Python, de forma simples e diret
 
 📎 Atualizações periódicas conforme o progresso dos estudos.
 
- 
+---
+
+## 🏆 Resultados – InterFatecs
+
+- Edição 12 (2025) – Fase 1: 4ª colocação entre as equipes da FATEC Diadema — um resultado muito positivo, considerando que a equipe era composta de calouras.  
+  (Não classificadas para a Fase 2 – apenas as 50 melhores equipes no ranking geral avançaram.)
