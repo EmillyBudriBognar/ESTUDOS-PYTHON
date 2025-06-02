@@ -1,3 +1,5 @@
+##RESUMÃO PYTHON: https://docs.google.com/document/d/1gYdxZtJns7D29rqhDJlVQZND5jdHdmQq-xHn_bMfGSs/edit?usp=sharing
+
 # 🐍 Estudos de Python – InterFatecs
 
 Repositório criado para registrar minha evolução na linguagem **Python**, com foco na preparação para o **Campeonato InterFatecs**.
