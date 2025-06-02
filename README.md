@@ -1,4 +1,4 @@
-##RESUMÃO PYTHON: https://docs.google.com/document/d/1gYdxZtJns7D29rqhDJlVQZND5jdHdmQq-xHn_bMfGSs/edit?usp=sharing
+## RESUMÃO PYTHON: https://docs.google.com/document/d/1gYdxZtJns7D29rqhDJlVQZND5jdHdmQq-xHn_bMfGSs/edit?usp=sharing
 
 # 🐍 Estudos de Python – InterFatecs
 
