@@ -1,5 +1,3 @@
-## RESUMÃO PYTHON: https://docs.google.com/document/d/1gYdxZtJns7D29rqhDJlVQZND5jdHdmQq-xHn_bMfGSs/edit?usp=sharing
-
 # 🐍 Estudos de Python – InterFatecs
 
 Repositório criado para registrar minha evolução na linguagem **Python**, com foco na preparação para o **Campeonato InterFatecs**.
@@ -23,3 +21,8 @@ Manter a prática constante de programação em Python, de forma simples e diret
 
 - Edição 12 (2025) – Fase 1: 4ª colocação entre as equipes da FATEC Diadema — um resultado muito positivo, considerando que a equipe era composta de calouras.  
   (Não classificadas para a Fase 2 – apenas as 50 melhores equipes no ranking geral avançaram.)
+
+---
+
+## 🥇 Resultados – Olimpíada Brasileira de Informática (OBI)
+- Nível Sênior (2025): 1º lugar entre os participantes da FATEC Diadema. Classificada para a fase 2.
